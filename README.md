@@ -1,7 +1,3 @@
-from pathlib import Path
-
-text = """# Spotify Data Analysis with Python
-
 ## 📌 Project Overview
 This project focuses on exploring Spotify music data using Python to uncover patterns in song attributes, artist performance, genre trends, and overall listener behavior. The analysis includes data cleaning, exploratory data analysis (EDA), data visualization, and insight generation.
 
